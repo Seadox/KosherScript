@@ -85,6 +85,11 @@ The following BNF grammar describes the simple programming language supported by
 - Add new features or modify existing ones by updating the lexer, parser, and interpreter.
 - To add new keywords or operations, update the relevant sections in `Lexer`, `Parser`, and `Interpreter` classes.
 
+## Authors
+
+- [@Seadox](https://www.github.com/seadox)
+- [@Zalts110](https://github.com/Zalts110)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
